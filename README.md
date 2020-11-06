@@ -1,2 +1,2 @@
 # Repository
-List Reource in Mithraya Projects
+List Resource in Mithraya Projects
